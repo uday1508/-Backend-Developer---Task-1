@@ -137,8 +137,10 @@ TOKEN_KEY=&lt;your-jwt-secret&gt;
 
 # Future Improvements: 
 
-<strong>Real time notifications </strong> <br></br>
+<strong>Real time notifications and Progress tracking</strong> <br></br>
 <strong>Storing the data efficiently for mining</strong>
+<strong>Collabrative Tasks with 2 or more users</strong>
+<strong>Repetitive Tasks and priorities</strong>
 
 # Challenges Faced:
 Initially, the setup worked well in Postman. However, an issue arose during the integration with the frontend. Although this consumed some time, it was resolved relatively quickly.
