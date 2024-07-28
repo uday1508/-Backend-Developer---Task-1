@@ -32,6 +32,6 @@ app.use('/api/todos', todoRoutes);
 app.use('/api/users', userRoutes);
 
 // Start server
-app.listen(port, () => {
-  console.log(`Server listening at http://localhost:${port}`);
-});
+// app.listen(port, () => {
+//   console.log(`Server listening at http://localhost:${port}`);
+// });
