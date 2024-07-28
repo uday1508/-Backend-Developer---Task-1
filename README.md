@@ -127,3 +127,9 @@ npm install
 MONGO_DB_URL=&lt;your-mongodb-connection-string&gt;
 TOKEN_KEY=&lt;your-jwt-secret&gt;
         </pre>
+    </li>
+    <li>
+      <pre>
+        npm start
+        </pre>
+    </li>
