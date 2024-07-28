@@ -124,6 +124,6 @@ npm install
     <li><strong>Set up environment variables:</strong>
         <p>Create a <code>.env</code> file in the root of the project and add the necessary environment variables. For example:</p>
         <pre>
-MONGODB_URI=&lt;your-mongodb-connection-string&gt;
-JWT_SECRET=&lt;your-jwt-secret&gt;
+MONGO_DB_URL=&lt;your-mongodb-connection-string&gt;
+TOKEN_KEY=&lt;your-jwt-secret&gt;
         </pre>
