@@ -91,3 +91,39 @@ The Session model represents user sessions in the application. It tracks when us
 </li>
 
 </ul>
+
+
+## Installation and Running the Project
+ To set up and run the todo-list server, follow these steps:
+
+# Prerequisites
+Make sure you have the following installed on your system:
+
+<ul>
+    <li>Node.js (version 14.x or later)</li>
+    <li>npm (version 6.x or later)</li>
+</ul>
+
+# Installation
+<ol>
+    <li><strong>Clone the repository:</strong>
+        <pre>
+git clone &lt;repository-url&gt;
+cd server
+        </pre>
+    </li>
+    <li><strong>Install dependencies:</strong>
+        <pre>
+npm install
+        </pre>
+    </li>
+</ol>
+
+# Running the Server
+<ol>
+    <li><strong>Set up environment variables:</strong>
+        <p>Create a <code>.env</code> file in the root of the project and add the necessary environment variables. For example:</p>
+        <pre>
+MONGODB_URI=&lt;your-mongodb-connection-string&gt;
+JWT_SECRET=&lt;your-jwt-secret&gt;
+        </pre>
