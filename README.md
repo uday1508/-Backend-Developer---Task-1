@@ -130,7 +130,7 @@ TOKEN_KEY=&lt;your-jwt-secret&gt;
     </li>
     <li>
       <pre>
-        npm start
+        npm run dev
         </pre>
     </li>
 </ol>
