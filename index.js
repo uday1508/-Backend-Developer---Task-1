@@ -6,7 +6,7 @@ const todoRoutes = require('./routes/todoRoutes'); // import todo routes
 const userRoutes = require('./routes/userRoutes'); // import user routes
 
 const app = express(); // create express app
-const PORT = "0.0.0.0"; // port to listen on
+const PORT = 0.0.0.0; // port to listen on
 
 app.use(cors()); // use cors
 app.use(express.json()); // use express.json to parse json bodies
