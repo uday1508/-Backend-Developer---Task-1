@@ -137,7 +137,7 @@ TOKEN_KEY=&lt;your-jwt-secret&gt;
 
 # Future Improvements: 
 
-<strong>Real time notifications </strong>
+<strong>Real time notifications </strong> <br></br>
 <strong>Storing the data efficiently for mining</strong>
 
 # Challenges Faced:
