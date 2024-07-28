@@ -138,8 +138,8 @@ TOKEN_KEY=&lt;your-jwt-secret&gt;
 # Future Improvements: 
 
 <strong>Real time notifications and Progress tracking</strong> <br></br>
-<strong>Storing the data efficiently for mining</strong>
-<strong>Collabrative Tasks with 2 or more users</strong>
+<strong>Storing the data efficiently for mining</strong><br></br>
+<strong>Collabrative Tasks with 2 or more users</strong><br></br>
 <strong>Repetitive Tasks and priorities</strong>
 
 # Challenges Faced:
