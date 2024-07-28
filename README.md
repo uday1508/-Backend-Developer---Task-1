@@ -133,3 +133,14 @@ TOKEN_KEY=&lt;your-jwt-secret&gt;
         npm start
         </pre>
     </li>
+</ol>
+
+# Future Improvements: 
+
+<strong>Real time notifications </strong>
+<strong>Storing the data efficiently for mining</strong>
+
+# Challenges Faced:
+Initially, the setup worked well in Postman. However, an issue arose during the integration with the frontend. Although this consumed some time, it was resolved relatively quickly.
+ 
+
